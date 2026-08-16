@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A feature-based React and Redux Toolkit task management application tailored for Laravel REST API with authentication, CRUD operations, and pagination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
